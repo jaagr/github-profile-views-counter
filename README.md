@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/5/7 12:00 AM UTC
+			2024/5/8 12:00 AM UTC
 		</td>
 		<td>
-			119752
+			120169
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/polybar/github-profile-views-counter/raw/master/graph/59212953/small/year.png" height="20"> 472839
+			<img alt="Response time graph" src="https://github.com/polybar/github-profile-views-counter/raw/master/graph/59212953/small/year.png" height="20"> 474392
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/5/7 12:00 AM UTC
+			2024/5/8 12:00 AM UTC
 		</td>
 		<td>
-			3212
+			3224
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaagr/github-profile-views-counter/raw/master/graph/59114008/small/year.png" height="20"> 38318
+			<img alt="Response time graph" src="https://github.com/jaagr/github-profile-views-counter/raw/master/graph/59114008/small/year.png" height="20"> 38606
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/9 6:18 PM UTC</i></small>
+<small><i>Last updated on 2024/5/10 1:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
