@@ -26,7 +26,7 @@
 			<code>211</code>
 		</td>
 		<td>
-			<code>1260</code>
+			<code>1255</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/19 6:26 AM UTC</i></small>
+<small><i>Last updated on 2025/3/19 12:37 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
